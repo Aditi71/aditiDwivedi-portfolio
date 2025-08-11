@@ -4,7 +4,7 @@ A responsive and professional personal portfolio website showcasing my skills, e
 This site is built with **HTML5** and **CSS3** and is hosted using **GitHub Pages**.
 
 ## 🌐 Live Demo
-[View Portfolio](https://yourusername.github.io)
+[View Portfolio](https://aditidwivedi-portfolio.netlify.app/)
 
 ## 📌 Features
 - **Responsive Design** – Mobile, tablet, and desktop friendly
